@@ -1,0 +1,8 @@
+dao\LoginLogDao.class
+dao\UserDao$1.class
+domain\LoginLog.class
+web\LoginController.class
+domain\User.class
+web\LoginCommand.class
+service\UserService.class
+dao\UserDao.class
